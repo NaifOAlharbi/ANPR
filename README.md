@@ -9,9 +9,8 @@ The Program has two options: (images) and  (Videos)
 To run the program on images, please type  (-td=) before typing the path of the images or the name of the image(without any space between -td= and the path).
 Images files are provided in the Debug file 
 example:-
-..\ANPRsystemData\ANPRsystem\x64\Debug> ANPRsystem.exe -td=Back/*.JPG
-or
-..\ANPRsystemData\ANPRsystem\x64\Debug> ANPRsystem.exe -td=Back/AF15RJO.JPG
+..\ANPRsystemData\ANPRsystem\x64\Debug> ANPRsystem.exe -td=test/*.JPG
+
 
 2-Live-feed or Videos:-
 In case of videos, please type(-tv=) before typing the path of the video or the name of the video. A video is provided 
