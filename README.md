@@ -9,6 +9,7 @@ The Program has two options: (images) and  (Videos)
 To run the program on images, please type  (-td=) before typing the path of the images or the name of the image(without any space between -td= and the path). 
 
 example:-
+
 ..\ANPRsystemData\ANPRsystem\x64\Debug> ANPRsystem.exe -td=test/*.JPG
 
 
