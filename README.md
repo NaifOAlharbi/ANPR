@@ -6,9 +6,9 @@ The goal of this application is to detect the number plate of the cars and recog
 The Program has two options: (images) and  (Videos)
 
 1- Images:-
-To run the program on images, please type  (-td=) before typing the path of the images or the name of the image(without any space between -td= and the path).
-example:-
+To run the program on images, please type  (-td=) before typing the path of the images or the name of the image(without any space between -td= and the path). 
 
+example:-
 ..\ANPRsystemData\ANPRsystem\x64\Debug> ANPRsystem.exe -td=test/*.JPG
 
 
