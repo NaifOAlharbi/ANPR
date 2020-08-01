@@ -9,9 +9,9 @@ __1- Images:-__
 To run the program on images, please type  (-td=) before typing the path of the images or the name of the image(without any space between -td= and the path). 
 
 example:-
-
+```bash
 ..\ANPRsystemData\ANPRsystem\x64\Debug> ANPRsystem.exe -td=test/*.JPG
-
+```
 
 __2-Live-feed or Videos:-__
 In case of videos, please type(-tv=) before typing the path of the video or the name of the video.
