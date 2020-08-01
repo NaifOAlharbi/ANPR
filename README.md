@@ -17,14 +17,16 @@ __2-Live-feed or Videos:-__
 In case of videos, please type(-tv=) before typing the path of the video or the name of the video.
 
 example:-
+```bash
 ..\ANPRsystemData\ANPRsystem\x64\Debug> ANPRsystem.exe -tv=Video1.MOV
+```
 
 For Live-feed, please type (-tv=0)
 
 example:-
-
+```bash
  ..\ANPRsystemData\ANPRsystem\x64\Debug> ANPRsystem.exe -tv=0
-
+```
 After typing the video name or the live feed, the program will ask the user to type a name for the output video (The recorded video), which will be saved in the Debug
 Then, A window will be displayed to the user in order to adjust the bounding box for the Region Of Interest....
 
